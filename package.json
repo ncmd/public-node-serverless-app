@@ -1,0 +1,12 @@
+{
+  "name": "public-node-serverless-app",
+  "version": "1.0.0",
+  "description": "firebase functions",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git add . && git commit -m \"Deploy\" && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
